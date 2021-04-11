@@ -8,3 +8,13 @@ E:\MyProjects\VS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj
 E:\MyProjects\VS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.csproj.CoreCompileInputs.cache
 E:\MyProjects\VS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.exe
 E:\MyProjects\VS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.pdb
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\bin\Debug\WinFormsBindingTest.exe.config
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\bin\Debug\WinFormsBindingTest.exe
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\bin\Debug\WinFormsBindingTest.pdb
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.csprojAssemblyReference.cache
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.MainForm.resources
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.Properties.Resources.resources
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.csproj.GenerateResource.cache
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.exe
+D:\Projects\ProjectsVS2019\C#\TestProjects\WinFormsBindingTest\WinFormsBindingTest\obj\Debug\WinFormsBindingTest.pdb

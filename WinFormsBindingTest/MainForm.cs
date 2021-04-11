@@ -19,6 +19,7 @@ namespace WinFormsBindingTest
             InitializeComponent();
             bookInfo = CreateBookInfo();
             FillControls();
+            AdviseToBookEvents();
             AdviseToControlEvents();
         }
 
@@ -67,6 +68,30 @@ namespace WinFormsBindingTest
             publisherTextBox.TextChanged += (o, e) =>
             {
                 bookInfo.Publisher = publisherTextBox.Text;
+            };
+        }
+
+        private void AdviseToBookEvents()
+        {
+            bookInfo.AuthorChanged += (s, e) =>
+            {
+                authorTextBox.Text = ((BookInfo)s).Author;
+            };
+            bookInfo.TitleChanged += (s, e) =>
+            {
+                titleTextBox.Text = ((BookInfo)s).Title;
+            };
+            bookInfo.ISBNChanged += (s, e) =>
+            {
+                isbnTextBox.Text = ((BookInfo)s).ISBN;
+            };
+            bookInfo.PageCountChanged += (s, e) =>
+            {
+                pageCountTextBox.Text = ((BookInfo)s).PageCount.ToString();
+            };
+            bookInfo.PublisherChanged += (s, e) =>
+            {
+                publisherTextBox.Text = ((BookInfo)s).Publisher;
             };
         }
     }
